@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e84f14947afeb4d4584ca20e0b641303
+  productGUID: 3d320f2ee5cb9fa4b9f79c876d17736c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: SU SG Projektvecka
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -601,14 +601,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SU SG Projektvecka
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: SU SG Projektvecka
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -679,10 +679,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4583b543-6a1b-4093-9c77-d7deb63afbe7
+  cloudProjectId: 57c621b0-3f3f-4ef9-8e77-cc86450113f0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SU SG Projektvecka
+  projectName: My project
   organizationId: unity_c3c8d1682ccbee44b53a
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
